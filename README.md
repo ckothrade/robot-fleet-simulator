@@ -14,3 +14,10 @@ This project was created to explore robotics software concepts such as fleet man
 ## How to Run
 ```bash
 python main.py
+```
+
+## Example Output
+
+Robot_1 | WORKING | Battery: 78%  
+Robot_2 | LOW BATTERY | Battery: 15%  
+Robot_3 | IDLE | Battery: 92%  
